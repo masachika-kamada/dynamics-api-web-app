@@ -1,0 +1,12 @@
+[project]
+name = "dynamics-py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "msal>=1.32.3",
+    "msal-streamlit-authentication>=1.1.0",
+    "ruff>=0.11.9",
+    "streamlit>=1.45.0",
+]
